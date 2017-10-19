@@ -5,4 +5,4 @@ Created on Oct 18, 2017
 '''
 
 if __name__ == '__main__':
-    print("do nothing special")
+    print("do nothing special!")
